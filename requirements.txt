@@ -1,0 +1,8 @@
+
+streamlit
+pymupdf
+pandas
+python-dotenv
+sentence-transformers
+faiss-cpu
+scikit-learn
